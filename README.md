@@ -1,2 +1,3 @@
 # practice
-It contains static webpage based on pure HTML. NO CSS ALLOWED
+It includes various coursera assignments
+
