@@ -1,3 +1,4 @@
 # practice
-It includes various coursera assignments
+It includes various coursera assignments.
+Good Luck!
 
